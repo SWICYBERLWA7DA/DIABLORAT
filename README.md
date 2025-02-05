@@ -103,5 +103,5 @@ $ help COMMAND
 ```
 
 ### Support
-Twitter: <a href="//twitter.com/hash3liZer">@hash3liZer</a><br>
-Discord: TheFlash2k#0407
+Chanel telegram: https://t.me/digitalactivityhaven 
+Telegran =====> @SWICYBERLWA7DA1
