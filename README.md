@@ -64,7 +64,6 @@ The compiled version has to generated on the respective platform. For example, y
 $ python3 server.py generate --address 134.276.92.1 --port 2999 --output /tmp/filer
 ```
 
-<h6 align="center"><img src="https://user-images.githubusercontent.com/29171692/89173322-b74dc680-d5a1-11ea-8b3b-e5aa83cfbda1.png"></h6>
 
 Replace your IP Address and Port on above commands. 
 
